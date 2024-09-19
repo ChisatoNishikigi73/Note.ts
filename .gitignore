@@ -1,0 +1,10 @@
+/node_modules/
+/lib/
+/.idea/
+/.vscode/
+pnpm-lock.yaml
+
+/src/public/note-vue/.vscode/
+/src/public/note-vue/node_modules/
+
+
